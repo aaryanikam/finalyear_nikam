@@ -1,0 +1,201 @@
+Emp_ID,user_id,Name,Age,Gender,Department,Role,Skills,Join_Date,Resign_Date,Status,Salary,Location
+1,,Aarti Gupta,23,Female,IT,DevOps Engineer,SQL:2;JavaScript:5;Java:2,2024-10-09,,Active,72164.0,Mumbai
+2,,Arjun Pandey,39,Male,HR,L&D Specialist,Excel:2;Labor Law:3;Onboarding:5;HRMS:4,2021-10-18,,Active,47055.0,Delhi
+3,,Vikram Malhotra,45,Male,IT,System Admin,Git:2;React:5;Python:2;Docker:4,2022-02-16,2022-06-04,Resigned,71300.0,Gurgaon
+4,,Meera Pillai,45,Female,HR,HR Executive,Recruitment:5;Payroll:4;HRMS:3,2022-04-27,,Active,46865.0,Pune
+5,,Ankit Das,36,Male,IT,IT Manager,Kubernetes:5;SQL:5;JavaScript:4,2024-10-16,,Active,103665.0,Pune
+6,,Sanjay Malhotra,38,Male,HR,HR Manager,Training:5;Excel:3;Leadership:4;Labor Law:3;Payroll:3,2022-10-21,,Active,103077.0,Gurgaon
+7,,Meera Patel,46,Female,Sales,Sales Executive,Market Research:3;CRM:5;Negotiation:2,2023-06-15,,Active,54526.0,Kolkata
+8,,Gaurav Sharma,38,Male,Marketing,Marketing Executive,Social Media:4;Email Marketing:5;Analytics:3;Content Writing:5;SEO:2,2025-01-28,,Active,61967.0,Noida
+9,,Amit Das,45,Male,HR,L&D Specialist,Excel:2;HRMS:4;Labor Law:5;Recruitment:2;Onboarding:2,2025-10-02,,Active,47846.0,Chennai
+10,,Kriti Singh,55,Female,IT,QA Engineer,Kubernetes:5;JavaScript:3;MongoDB:4,2024-11-21,,Active,78865.0,Gurgaon
+11,,Varun Desai,36,Male,Marketing,Digital Marketer,Email Marketing:5;Analytics:5;HubSpot:2;Content Writing:3,2025-12-16,,Active,48078.0,Mumbai
+12,,Suresh Chauhan,30,Male,HR,HR Executive,Communication:2;Excel:3;Leadership:4;Payroll:5;HRMS:3,2023-06-05,,Active,58881.0,Gurgaon
+13,,Preeti Kapoor,28,Female,IT,Software Engineer,AWS:2;Node.js:2;TypeScript:2;Git:5;Docker:4,2025-01-04,,Active,71278.0,Hyderabad
+14,,Rohan Kapoor,27,Male,IT,QA Engineer,Java:2;Docker:2;Kubernetes:2,2023-10-19,,Active,70449.0,Hyderabad
+15,,Nikhil Malhotra,34,Male,Operations,Operations Manager,Excel:4;SAP:5;Logistics:5;Project Management:3,2025-10-01,,Active,89267.0,Chennai
+16,,Ishita Verma,33,Female,Support,Support Executive,Freshdesk:3;Problem Solving:2;Excel:2,2025-09-11,,Active,49498.0,Mumbai
+17,,Suresh Malhotra,38,Male,IT,Tech Lead,Git:2;TypeScript:5;Python:4,2022-01-23,,Active,143891.0,Hyderabad
+18,,Deepak Malhotra,54,Male,IT,IT Manager,Docker:5;Node.js:2;Java:2;Python:3,2024-02-14,,Active,108680.0,Chennai
+19,,Meera Kumar,31,Female,HR,HR Business Partner,Onboarding:2;Communication:3;Training:4;Leadership:2;HRMS:2,2022-09-08,,Active,49232.0,Chennai
+20,,Sanjay Joshi,38,Male,Marketing,SEO Specialist,HubSpot:4;Content Writing:2;SEO:2;Analytics:4;Canva:3,2023-08-08,,Active,61288.0,Delhi
+21,,Vivek Pandey,24,Male,IT,Software Engineer,JavaScript:5;Kubernetes:3;Python:2;Node.js:4;TypeScript:4,2022-04-03,,Active,71883.0,Pune
+22,,Anjali Kumar,37,Female,Support,Technical Support,Customer Service:5;Zendesk:2;Excel:3;Freshdesk:4;Communication:5,2021-08-30,,Active,35216.0,Chennai
+23,,Aditya Verma,23,Male,Operations,Operations Manager,Power BI:4;SAP:3;Logistics:3,2024-03-27,,Active,101113.0,Hyderabad
+24,,Vikram Pillai,28,Male,HR,L&D Specialist,Leadership:4;Training:3;Communication:4;Payroll:2,2024-02-21,,Active,54239.0,Gurgaon
+25,,Tanvi Kapoor,22,Female,Marketing,Brand Strategist,Email Marketing:4;Social Media:2;Google Ads:5,2022-03-24,,Active,54643.0,Noida
+26,,Mohit Desai,48,Male,Marketing,SEO Specialist,Google Ads:4;Analytics:2;Content Writing:4;Social Media:4,2022-03-03,,Active,50185.0,Pune
+27,,Rohan Joshi,42,Male,Sales,Key Account Manager,Presentation:2;Negotiation:4;Salesforce:4;Communication:3;Market Research:5,2023-08-07,,Active,98952.0,Ahmedabad
+28,,Ananya Agarwal,23,Female,Support,Support Lead,Communication:3;CRM:4;Freshdesk:3;Customer Service:3;Excel:3,2023-05-31,,Active,81046.0,Bangalore
+29,,Varun Singh,31,Male,Sales,Sales Head,Presentation:5;Market Research:5;Lead Generation:3,2021-04-02,,Active,119215.0,Bangalore
+30,,Amit Pillai,54,Male,Sales,Sales Manager,Salesforce:5;Lead Generation:3;CRM:5;Negotiation:4;Market Research:5,2023-07-30,,Active,105905.0,Kolkata
+31,,Sunita Agarwal,43,Female,Sales,Sales Manager,Communication:5;Salesforce:2;Lead Generation:4;Negotiation:3;Presentation:4,2025-08-16,2025-12-20,Resigned,105399.0,Pune
+32,,Aditya Shah,35,Male,IT,Senior Developer,AWS:5;TypeScript:5;Node.js:2,2021-10-05,,Active,97762.0,Kolkata
+33,,Sahil Sharma,39,Male,Operations,Logistics Coordinator,Excel:5;Logistics:3;Project Management:5;SAP:3,2025-11-30,,Active,55913.0,Kolkata
+34,,Bhavna Bose,30,Female,Support,Support Lead,Zendesk:5;Freshdesk:2;Customer Service:2;Communication:5,2025-10-18,,Active,76909.0,Ahmedabad
+35,,Sanjay Saxena,36,Male,Finance,Finance Manager,Auditing:5;Accounting:2;SQL:2;Excel:4,2025-11-07,,Active,122713.0,Mumbai
+36,,Suresh Joshi,45,Male,Operations,Operations Manager,ERP:3;SAP:5;Excel:4,2022-09-03,,Active,114707.0,Delhi
+37,,Rekha Gupta,37,Female,Support,Support Lead,Communication:5;Freshdesk:5;Excel:3;CRM:2,2021-09-29,,Active,110691.0,Mumbai
+38,,Ankit Banerjee,28,Male,Support,Support Executive,Freshdesk:4;Problem Solving:2;CRM:5;Communication:5,2022-07-07,,Active,41868.0,Kolkata
+39,,Harsh Shah,27,Male,IT,Senior Developer,Kubernetes:5;MongoDB:5;React:4;TypeScript:4;Docker:3,2024-09-16,,Active,99771.0,Chennai
+40,,Kriti Banerjee,44,Female,Marketing,SEO Specialist,HubSpot:3;Email Marketing:5;Content Writing:3,2024-07-05,,Active,48152.0,Chennai
+41,,Sahil Iyer,53,Male,Sales,Sales Head,CRM:5;Negotiation:3;Lead Generation:5,2025-07-22,,Active,71130.0,Ahmedabad
+42,,Aditya Nair,41,Male,Finance,Payroll Specialist,Power BI:4;GST:4;Financial Modelling:5;SQL:4,2025-05-26,,Active,52554.0,Chennai
+43,,Tanvi Gupta,34,Female,Support,Support Lead,Zendesk:4;Customer Service:4;Problem Solving:2,2024-01-20,2026-02-03,Resigned,79908.0,Chennai
+44,,Sahil Pandey,40,Male,IT,Software Engineer,Kubernetes:5;React:2;JavaScript:2,2023-08-10,,Active,80686.0,Ahmedabad
+45,,Rahul Iyer,31,Male,Operations,Logistics Coordinator,Power BI:5;Excel:2;SAP:2,2024-05-16,2025-06-08,Resigned,58443.0,Delhi
+46,,Anjali Pandey,35,Female,Support,Support Lead,Problem Solving:5;Excel:4;Customer Service:2;CRM:2;Freshdesk:3,2025-08-15,2026-01-04,Resigned,108281.0,Chennai
+47,,Gaurav Singh,51,Male,IT,QA Engineer,TypeScript:2;Git:3;Docker:4;React:4,2024-10-07,,Active,87524.0,Mumbai
+48,,Dev Chauhan,32,Male,Marketing,Content Writer,Google Ads:4;Social Media:3;HubSpot:2;Analytics:2,2021-11-17,,Active,56498.0,Chennai
+49,,Sonal Saxena,49,Female,IT,IT Manager,TypeScript:5;AWS:5;React:2;Kubernetes:2,2024-09-03,2025-06-28,Resigned,139564.0,Pune
+50,,Ankit Chauhan,27,Male,Marketing,Marketing Executive,Social Media:5;HubSpot:4;SEO:3;Google Ads:5;Canva:5,2023-10-15,,Active,48401.0,Ahmedabad
+51,,Ankit Gupta,38,Male,Operations,Supply Chain Analyst,Project Management:2;SAP:5;Logistics:2;Power BI:4,2021-09-29,,Active,43798.0,Pune
+52,,Ananya Sharma,35,Female,Marketing,Brand Strategist,Email Marketing:4;SEO:5;Google Ads:5;Social Media:2,2025-05-05,,Active,54996.0,Chennai
+53,,Harsh Agarwal,29,Male,IT,IT Manager,SQL:5;JavaScript:2;React:3;Kubernetes:2;Python:5,2022-01-22,,Active,132661.0,Delhi
+54,,Sahil Kapoor,26,Male,Operations,Logistics Coordinator,SAP:5;Supply Chain:3;ERP:3,2024-03-03,,Active,53596.0,Chennai
+55,,Ananya Iyer,51,Female,Support,Customer Success Manager,CRM:5;Freshdesk:5;Customer Service:4;Problem Solving:4;Communication:5,2022-03-02,,Active,77363.0,Pune
+56,,Aditya Pillai,50,Male,Finance,Senior Accountant,Power BI:5;Auditing:2;Financial Modelling:3;GST:4;Tally:2,2023-07-08,2025-09-23,Resigned,82234.0,Mumbai
+57,,Vivek Das,53,Male,Operations,Operations Executive,Power BI:2;Logistics:4;Project Management:5;SAP:4,2022-08-13,2024-07-09,Resigned,41176.0,Noida
+58,,Meera Desai,44,Female,IT,Software Engineer,TypeScript:2;Java:2;Docker:4;JavaScript:2;React:4,2025-04-05,,Active,79112.0,Pune
+59,,Vivek Chauhan,31,Male,Marketing,Content Writer,Content Writing:5;SEO:3;Social Media:5,2022-07-02,,Active,52110.0,Hyderabad
+60,,Deepak Bose,49,Male,IT,System Admin,React:2;MongoDB:5;Kubernetes:4;JavaScript:4,2021-05-03,,Active,79969.0,Chennai
+61,,Nidhi Agarwal,40,Female,IT,QA Engineer,Node.js:5;Git:4;React:2;MongoDB:2;Python:5,2021-07-31,,Active,84892.0,Hyderabad
+62,,Dev Joshi,40,Male,Marketing,Digital Marketer,Content Writing:5;Analytics:2;SEO:4;Email Marketing:3;HubSpot:2,2023-10-01,2025-10-05,Resigned,61493.0,Pune
+63,,Gaurav Kumar,26,Male,Sales,Business Development,Communication:4;Lead Generation:2;Market Research:5,2024-10-23,,Active,59712.0,Delhi
+64,,Sunita Bose,46,Female,Legal,Legal Executive,Contract Law:2;Drafting:5;Corporate Law:4;Compliance:4,2022-04-17,,Active,58550.0,Pune
+65,,Arjun Banerjee,24,Male,Operations,Supply Chain Analyst,ERP:4;Project Management:5;Excel:2;SAP:3;Logistics:2,2025-06-05,2025-07-05,Resigned,56142.0,Chennai
+66,,Gaurav Patel,24,Male,Finance,Senior Accountant,SQL:5;Auditing:2;Accounting:5;GST:5;Tally:4,2023-08-04,,Active,72119.0,Pune
+67,,Meera Gupta,23,Female,Legal,Compliance Officer,Corporate Law:3;Legal Research:2;Contract Law:5;Compliance:2;GDPR:3,2024-09-17,,Active,65928.0,Bangalore
+68,,Yash Joshi,38,Male,IT,System Admin,SQL:3;Git:2;TypeScript:4;MongoDB:3;Node.js:3,2022-05-16,,Active,68602.0,Delhi
+69,,Rohan Sharma,50,Male,Finance,Finance Analyst,GST:3;Excel:5;Tally:2;SAP:2;Power BI:5,2022-10-01,2023-04-23,Resigned,61817.0,Pune
+70,,Meera Banerjee,50,Female,IT,System Admin,Kubernetes:5;React:5;Docker:5;Python:2;TypeScript:5,2024-04-09,,Active,67647.0,Mumbai
+71,,Vikram Patel,49,Male,HR,L&D Specialist,Training:5;Payroll:5;Onboarding:2;Labor Law:2;HRMS:3,2023-10-04,,Active,47487.0,Ahmedabad
+72,,Harsh Malhotra,27,Male,Finance,Accountant,Auditing:4;GST:3;Power BI:5;SAP:2,2023-08-28,2024-01-23,Resigned,48054.0,Mumbai
+73,,Shreya Patel,28,Female,Sales,Sales Head,Salesforce:5;Communication:2;CRM:4;Lead Generation:4;Negotiation:4,2024-11-19,2025-06-16,Resigned,103253.0,Gurgaon
+74,,Suresh Gupta,33,Male,Finance,Payroll Specialist,Tally:5;Accounting:2;Power BI:4;SQL:2,2021-10-20,,Active,68026.0,Chennai
+75,,Sanjay Kumar,27,Male,IT,System Admin,Git:2;MongoDB:3;AWS:2,2023-12-20,,Active,72049.0,Noida
+76,,Tanvi Mehta,53,Female,Finance,Senior Accountant,Tally:2;Excel:2;SQL:4;Auditing:5;Accounting:5,2023-10-03,,Active,79484.0,Gurgaon
+77,,Varun Mishra,36,Male,IT,QA Engineer,React:5;MongoDB:4;Git:2,2025-10-08,2026-01-10,Resigned,84638.0,Kolkata
+78,,Nikhil Pillai,36,Male,IT,DevOps Engineer,Node.js:5;Java:3;Python:3;Docker:5,2021-05-28,,Active,83308.0,Noida
+79,,Shreya Singh,29,Female,Finance,Accountant,Excel:5;Power BI:5;SQL:5;SAP:4,2024-04-03,2024-05-26,Resigned,45683.0,Kolkata
+80,,Harsh Kumar,41,Male,IT,System Admin,SQL:5;AWS:2;Git:5,2024-03-17,,Active,72260.0,Pune
+81,,Vikram Mishra,33,Male,Marketing,Brand Strategist,Canva:3;Email Marketing:2;Content Writing:3;Analytics:4;Google Ads:3,2021-10-25,,Active,42009.0,Gurgaon
+82,,Sneha Mehta,26,Female,Operations,Logistics Coordinator,Power BI:4;Supply Chain:4;Project Management:3;SAP:5,2022-07-15,,Active,54490.0,Ahmedabad
+83,,Deepak Chauhan,40,Male,IT,Tech Lead,React:2;Docker:2;MongoDB:4,2021-03-26,,Active,142248.0,Mumbai
+84,,Vikram Banerjee,50,Male,Marketing,Marketing Manager,SEO:4;Canva:5;Social Media:3;Google Ads:2,2022-01-27,2022-07-05,Resigned,94507.0,Mumbai
+85,,Kavya Verma,25,Female,HR,HR Business Partner,Leadership:4;HRMS:5;Labor Law:5;Payroll:4,2024-03-24,2025-01-18,Resigned,42159.0,Pune
+86,,Manoj Iyer,41,Male,Support,Support Lead,Communication:4;Freshdesk:5;Zendesk:3;CRM:2,2022-06-21,,Active,89686.0,Noida
+87,,Rohan Bose,43,Male,Marketing,Digital Marketer,Google Ads:2;Analytics:4;Email Marketing:4;Canva:3;Content Writing:3,2024-10-22,,Active,43291.0,Ahmedabad
+88,,Pooja Singh,32,Female,HR,HR Executive,Leadership:3;Communication:5;Training:3;HRMS:3;Onboarding:3,2023-10-10,,Active,41431.0,Ahmedabad
+89,,Mohit Nair,40,Male,Operations,Supply Chain Analyst,Power BI:5;SAP:3;ERP:4;Supply Chain:5;Project Management:5,2023-02-13,,Active,56479.0,Kolkata
+90,,Karan Joshi,32,Male,Support,Support Lead,Communication:2;Customer Service:2;Problem Solving:4;CRM:2,2023-03-14,2023-09-06,Resigned,94446.0,Chennai
+91,,Sneha Nair,27,Female,Support,Customer Success Manager,Problem Solving:4;Communication:3;Excel:5,2025-12-02,,Active,79715.0,Pune
+92,,Amit Shah,22,Male,Marketing,Content Writer,SEO:3;Content Writing:5;Canva:5,2024-08-22,,Active,37622.0,Mumbai
+93,,Rohan Pandey,37,Male,Operations,Logistics Coordinator,Power BI:4;Logistics:2;ERP:2,2021-08-17,,Active,60937.0,Kolkata
+94,,Sneha Gupta,37,Female,Operations,Logistics Coordinator,Supply Chain:3;Excel:4;Power BI:5;ERP:2;Logistics:4,2025-01-10,,Active,53650.0,Gurgaon
+95,,Vikram Kumar,23,Male,IT,Tech Lead,Kubernetes:5;TypeScript:2;MongoDB:5;Python:4;AWS:4,2024-02-22,,Active,104427.0,Pune
+96,,Ankit Gupta,52,Male,Support,Customer Success Manager,Communication:4;CRM:3;Freshdesk:5,2025-09-21,,Active,73837.0,Delhi
+97,,Swati Verma,24,Female,HR,HR Executive,Communication:5;Training:5;HRMS:4,2024-01-28,,Active,49375.0,Hyderabad
+98,,Rahul Das,53,Male,Finance,Accountant,Auditing:5;SQL:4;GST:3;Financial Modelling:5,2024-07-31,,Active,62015.0,Pune
+99,,Mohit Kapoor,40,Male,IT,Tech Lead,Kubernetes:2;React:2;Node.js:4,2022-09-12,,Active,129223.0,Chennai
+100,,Kavya Shah,26,Female,Sales,Key Account Manager,Presentation:5;Communication:4;Salesforce:2,2023-03-15,,Active,93809.0,Kolkata
+101,,Ankit Mehta,31,Male,Operations,Operations Manager,Project Management:3;SAP:4;Excel:4;ERP:5;Supply Chain:2,2023-12-29,,Active,99311.0,Ahmedabad
+102,,Vikram Chauhan,55,Male,IT,DevOps Engineer,Node.js:2;MongoDB:2;React:3;SQL:5,2025-06-01,,Active,83404.0,Kolkata
+103,,Riya Shah,50,Female,Sales,Sales Head,Presentation:3;Lead Generation:2;Negotiation:5;CRM:3,2021-05-03,,Active,114690.0,Mumbai
+104,,Ankit Kumar,53,Male,Marketing,Brand Strategist,Social Media:3;Content Writing:2;Google Ads:3;Analytics:3;Email Marketing:3,2022-12-21,,Active,48825.0,Bangalore
+105,,Harsh Pandey,30,Male,IT,Software Engineer,React:5;AWS:5;Docker:2,2025-08-30,,Active,86048.0,Pune
+106,,Bhavna Mishra,42,Female,Finance,Payroll Specialist,SAP:2;SQL:3;Financial Modelling:4;Accounting:3;Excel:3,2023-03-03,,Active,56338.0,Hyderabad
+107,,Vikram Iyer,43,Male,HR,L&D Specialist,HRMS:2;Onboarding:3;Labor Law:3;Payroll:3,2021-06-13,,Active,41349.0,Gurgaon
+108,,Vikram Verma,41,Male,Operations,Supply Chain Analyst,ERP:4;Supply Chain:4;SAP:5;Excel:3;Power BI:5,2022-03-20,2023-09-01,Resigned,42391.0,Ahmedabad
+109,,Pallavi Agarwal,51,Female,Sales,Business Development,Negotiation:3;Communication:4;Presentation:2;Salesforce:4;Market Research:3,2023-07-23,,Active,43764.0,Mumbai
+110,,Amit Verma,53,Male,HR,HR Business Partner,Payroll:4;Excel:3;Leadership:3;Recruitment:5;HRMS:5,2025-12-12,2026-01-23,Resigned,56297.0,Chennai
+111,,Tushar Saxena,30,Male,Operations,Operations Manager,Logistics:5;Excel:4;Project Management:2;Power BI:2;ERP:5,2024-01-10,,Active,122677.0,Chennai
+112,,Shreya Verma,28,Female,Finance,Payroll Specialist,Financial Modelling:5;GST:5;Accounting:4;SAP:2;Excel:3,2021-08-15,,Active,57228.0,Kolkata
+113,,Gaurav Pillai,54,Male,IT,Tech Lead,AWS:3;Kubernetes:4;Python:5;Git:5;MongoDB:3,2022-08-22,,Active,121493.0,Delhi
+114,,Aditya Banerjee,29,Male,Support,Customer Success Manager,CRM:4;Freshdesk:5;Customer Service:2;Problem Solving:4;Excel:4,2024-05-08,,Active,103253.0,Kolkata
+115,,Sunita Shah,55,Female,Marketing,Brand Strategist,Social Media:3;Analytics:2;HubSpot:5;Email Marketing:3,2025-04-01,,Active,49458.0,Gurgaon
+116,,Suresh Verma,35,Male,Sales,Sales Executive,CRM:5;Lead Generation:3;Communication:5,2021-09-24,,Active,51443.0,Kolkata
+117,,Priyanshu Desai,44,Male,Support,Support Lead,Zendesk:5;Freshdesk:4;CRM:3;Problem Solving:5;Customer Service:4,2023-05-13,,Active,104981.0,Chennai
+118,,Meera Iyer,40,Female,Sales,Sales Manager,Market Research:4;Communication:5;Negotiation:4;Lead Generation:4,2022-04-14,,Active,107583.0,Mumbai
+119,,Aditya Kumar,34,Male,Operations,Operations Manager,Excel:5;Logistics:4;Power BI:5;Project Management:3,2022-12-04,,Active,92768.0,Noida
+120,,Rohan Gupta,28,Male,Marketing,Brand Strategist,Canva:3;SEO:3;Analytics:2,2022-01-20,,Active,47823.0,Kolkata
+121,,Bhavna Pillai,42,Female,IT,Tech Lead,AWS:5;MongoDB:3;Docker:4,2025-09-29,,Active,142329.0,Chennai
+122,,Vikram Das,24,Male,Sales,Sales Head,Presentation:2;CRM:5;Negotiation:5;Lead Generation:3;Market Research:4,2022-11-22,,Active,89555.0,Bangalore
+123,,Sanjay Rao,38,Male,Sales,Sales Head,Lead Generation:3;Negotiation:2;Salesforce:4;Market Research:3;Presentation:5,2021-12-12,,Active,70923.0,Delhi
+124,,Sonal Chauhan,28,Female,Marketing,Content Writer,Email Marketing:4;HubSpot:2;Canva:5,2023-05-27,,Active,41607.0,Delhi
+125,,Suresh Sharma,25,Male,HR,HR Manager,Onboarding:2;Training:4;HRMS:4;Leadership:3,2024-05-10,2024-09-21,Resigned,105500.0,Mumbai
+126,,Sahil Pillai,48,Male,Finance,Accountant,Accounting:3;GST:5;SQL:3;Tally:5;Power BI:4,2021-10-30,,Active,60428.0,Noida
+127,,Bhavna Joshi,42,Female,Support,Support Executive,Problem Solving:2;Freshdesk:2;CRM:3;Communication:3;Customer Service:3,2025-06-04,,Active,44478.0,Noida
+128,,Sahil Chauhan,41,Male,Sales,Sales Head,Market Research:5;CRM:5;Lead Generation:2;Negotiation:5,2024-08-25,,Active,95948.0,Bangalore
+129,,Mohit Joshi,48,Male,Sales,Sales Executive,Communication:2;Presentation:5;CRM:2;Salesforce:4,2021-10-13,,Active,39437.0,Delhi
+130,,Sunita Das,47,Female,Operations,Supply Chain Analyst,SAP:3;Power BI:4;Project Management:2;Excel:3,2021-12-30,,Active,44172.0,Noida
+131,,Arjun Pillai,44,Male,IT,DevOps Engineer,MongoDB:5;Kubernetes:3;AWS:3;TypeScript:5,2025-01-07,,Active,74032.0,Delhi
+132,,Mohit Pillai,37,Male,IT,System Admin,AWS:2;Git:2;Python:2;SQL:5;Kubernetes:2,2023-08-14,,Active,78181.0,Bangalore
+133,,Divya Pillai,41,Female,Operations,Operations Executive,Supply Chain:4;Logistics:4;ERP:3,2023-02-26,,Active,61633.0,Delhi
+134,,Manoj Verma,31,Male,Sales,Sales Head,Negotiation:4;Presentation:5;Lead Generation:4;Salesforce:5;CRM:5,2025-01-17,,Active,94671.0,Chennai
+135,,Priyanshu Nair,43,Male,Operations,Supply Chain Analyst,ERP:3;SAP:5;Excel:3;Project Management:4;Power BI:3,2021-04-30,,Active,54738.0,Mumbai
+136,,Ishita Desai,35,Female,Support,Support Executive,Problem Solving:2;Customer Service:3;Freshdesk:3;Communication:5,2025-12-28,,Active,39934.0,Pune
+137,,Nikhil Desai,51,Male,IT,System Admin,SQL:3;Git:4;TypeScript:4;AWS:5,2024-01-24,,Active,86257.0,Noida
+138,,Rajesh Mishra,42,Male,Operations,Logistics Coordinator,Power BI:4;Project Management:3;SAP:4,2022-12-03,,Active,41498.0,Kolkata
+139,,Sunita Patel,43,Female,IT,Tech Lead,Git:4;AWS:3;React:5;JavaScript:3;SQL:5,2022-01-08,,Active,132022.0,Chennai
+140,,Priyanshu Saxena,25,Male,IT,System Admin,JavaScript:3;TypeScript:2;Kubernetes:2;Docker:2,2025-04-22,,Active,78513.0,Bangalore
+141,,Suresh Singh,22,Male,Marketing,Marketing Executive,HubSpot:5;Content Writing:5;SEO:2,2023-10-09,2024-08-24,Resigned,55076.0,Noida
+142,,Sunita Iyer,55,Female,Sales,Business Development,Salesforce:3;Presentation:2;Lead Generation:2,2024-12-31,,Active,42896.0,Delhi
+143,,Deepak Kumar,27,Male,HR,HR Business Partner,Training:3;Payroll:3;Excel:4,2023-10-21,,Active,43063.0,Bangalore
+144,,Gaurav Agarwal,39,Male,IT,Software Engineer,JavaScript:2;Java:2;Docker:3;AWS:3;Node.js:5,2022-03-29,,Active,67436.0,Bangalore
+145,,Ishita Chauhan,37,Female,Marketing,Content Writer,SEO:5;Google Ads:2;Social Media:4;Email Marketing:3,2022-04-13,,Active,49751.0,Gurgaon
+146,,Sanjay Pillai,23,Male,Support,Support Executive,Customer Service:3;CRM:2;Communication:4;Freshdesk:5;Zendesk:4,2023-04-30,,Active,44763.0,Chennai
+147,,Gaurav Malhotra,31,Male,Sales,Sales Head,Lead Generation:2;CRM:2;Salesforce:4;Communication:3;Presentation:5,2024-01-21,2026-02-12,Resigned,90753.0,Kolkata
+148,,Sonal Kumar,23,Female,Support,Support Executive,Communication:5;Zendesk:5;Problem Solving:2,2022-12-20,2024-04-24,Resigned,41597.0,Mumbai
+149,,Aditya Sharma,30,Male,HR,HR Business Partner,Leadership:3;Excel:5;Onboarding:3,2024-07-28,,Active,49867.0,Chennai
+150,,Vikram Mehta,28,Male,Sales,Key Account Manager,Lead Generation:3;CRM:5;Communication:3;Salesforce:5,2026-01-15,,Active,89966.0,Delhi
+151,,Tanvi Banerjee,52,Female,Finance,Senior Accountant,GST:3;Auditing:4;Power BI:4;SQL:3,2023-11-05,,Active,70820.0,Pune
+152,,Manoj Desai,51,Male,Marketing,Marketing Manager,Canva:4;Content Writing:2;HubSpot:3;Email Marketing:3;Analytics:2,2021-08-09,,Active,100734.0,Hyderabad
+153,,Sahil Singh,52,Male,Support,Technical Support,Problem Solving:3;Zendesk:5;CRM:5;Customer Service:2;Excel:5,2023-01-30,,Active,43133.0,Gurgaon
+154,,Rekha Kapoor,43,Female,Sales,Business Development,Market Research:3;Salesforce:4;Presentation:3;CRM:2;Lead Generation:5,2026-01-07,2026-02-03,Resigned,38471.0,Kolkata
+155,,Tushar Desai,28,Male,Sales,Sales Head,Salesforce:5;Negotiation:3;Lead Generation:4;Communication:2;Presentation:5,2025-08-06,2026-01-12,Resigned,97261.0,Chennai
+156,,Rajesh Rao,29,Male,Finance,Finance Analyst,Power BI:5;GST:4;Financial Modelling:2;Excel:4;Auditing:2,2022-06-11,2025-03-18,Resigned,56241.0,Bangalore
+157,,Sunita Nair,33,Female,Sales,Sales Head,Communication:5;Salesforce:3;Lead Generation:5,2022-05-23,,Active,111974.0,Delhi
+158,,Arjun Desai,33,Male,Marketing,Content Writer,Email Marketing:3;Canva:4;SEO:2;Google Ads:2,2024-12-21,,Active,47681.0,Pune
+159,,Deepak Agarwal,30,Male,Sales,Business Development,Lead Generation:4;Salesforce:5;Market Research:3;CRM:4;Negotiation:2,2024-09-27,,Active,38862.0,Pune
+160,,Kavya Kumar,33,Female,Marketing,Brand Strategist,Email Marketing:5;Social Media:5;Google Ads:3;HubSpot:5,2023-05-02,,Active,42467.0,Noida
+161,,Karan Reddy,48,Male,Operations,Operations Executive,Excel:5;SAP:5;ERP:5;Supply Chain:5,2025-02-20,2026-02-02,Resigned,56013.0,Ahmedabad
+162,,Varun Nair,29,Male,HR,Recruiter,Leadership:5;Onboarding:5;Recruitment:2,2021-06-17,,Active,57796.0,Chennai
+163,,Ishita Pillai,38,Female,IT,IT Manager,Kubernetes:3;SQL:4;AWS:2;Java:5,2023-08-13,,Active,105700.0,Pune
+164,,Amit Nair,32,Male,HR,L&D Specialist,Training:3;Payroll:3;Recruitment:2;Onboarding:4;Labor Law:4,2024-06-08,,Active,63070.0,Pune
+165,,Deepak Mishra,37,Male,Legal,Legal Executive,Compliance:4;Drafting:3;Contract Law:3,2024-04-09,,Active,78310.0,Delhi
+166,,Geeta Bose,53,Female,Finance,Finance Analyst,Accounting:2;Auditing:5;Financial Modelling:4;Power BI:4;Excel:5,2026-01-23,,Active,64069.0,Pune
+167,,Mohit Singh,39,Male,Support,Technical Support,Customer Service:5;Excel:3;CRM:5;Communication:3;Freshdesk:5,2024-03-08,,Active,39292.0,Pune
+168,,Rohan Chauhan,51,Male,Operations,Supply Chain Analyst,Power BI:5;Excel:2;Project Management:2;Supply Chain:3;Logistics:5,2024-12-10,,Active,54018.0,Bangalore
+169,,Pooja Das,47,Female,HR,Recruiter,Training:4;Onboarding:3;Communication:2,2022-02-26,,Active,63789.0,Chennai
+170,,Vivek Singh,22,Male,Marketing,Marketing Executive,HubSpot:3;SEO:5;Google Ads:2,2021-04-03,,Active,40951.0,Pune
+171,,Rohan Agarwal,30,Male,IT,QA Engineer,TypeScript:4;Java:4;MongoDB:4,2025-05-01,,Active,89679.0,Kolkata
+172,,Bhavna Patel,31,Female,IT,Tech Lead,Git:5;MongoDB:4;JavaScript:3,2022-03-24,,Active,140375.0,Kolkata
+173,,Nikhil Singh,30,Male,Operations,Operations Manager,Supply Chain:4;Project Management:5;SAP:4,2022-06-18,2023-01-11,Resigned,93151.0,Hyderabad
+174,,Ritesh Banerjee,53,Male,Marketing,SEO Specialist,SEO:3;Email Marketing:5;Analytics:4;Content Writing:2;Google Ads:3,2024-09-22,,Active,40694.0,Kolkata
+175,,Simran Singh,23,Female,Sales,Sales Executive,Communication:4;Negotiation:3;Lead Generation:5;Salesforce:2,2025-12-31,,Active,37212.0,Gurgaon
+176,,Rahul Verma,41,Male,Operations,Logistics Coordinator,Logistics:5;Project Management:2;Supply Chain:3;SAP:4;ERP:2,2024-12-08,,Active,56754.0,Mumbai
+177,,Rohan Reddy,25,Male,Finance,Accountant,Auditing:2;Financial Modelling:5;Excel:2;Tally:5,2021-12-02,,Active,66826.0,Chennai
+178,,Kavya Gupta,23,Female,IT,Senior Developer,Python:3;JavaScript:4;Docker:3;Node.js:4;React:2,2024-07-20,,Active,99068.0,Pune
+179,,Deepak Shah,45,Male,Legal,Legal Executive,Drafting:2;Corporate Law:5;Legal Research:3,2021-09-28,2022-11-30,Resigned,63359.0,Delhi
+180,,Ankit Desai,24,Male,IT,IT Manager,Python:5;TypeScript:4;MongoDB:5;SQL:3;Git:3,2021-12-04,,Active,146794.0,Noida
+181,,Meera Reddy,47,Female,HR,Recruiter,Recruitment:2;Training:3;Communication:3;Onboarding:2,2024-06-29,,Active,55240.0,Mumbai
+182,,Manoj Reddy,45,Male,IT,QA Engineer,Node.js:4;SQL:3;React:5,2021-09-29,,Active,81166.0,Gurgaon
+183,,Mohit Pandey,43,Male,Support,Support Lead,Communication:3;Problem Solving:4;Excel:2,2022-05-23,,Active,114737.0,Bangalore
+184,,Sunita Desai,45,Female,Finance,Finance Analyst,Financial Modelling:4;Auditing:2;SQL:2;Excel:3;Tally:5,2025-08-08,,Active,69507.0,Ahmedabad
+185,,Tushar Patel,38,Male,Marketing,Marketing Manager,SEO:3;Canva:3;Analytics:4,2022-02-23,,Active,97752.0,Pune
+186,,Sanjay Reddy,32,Male,Sales,Sales Manager,Negotiation:2;Market Research:3;Salesforce:2,2024-04-25,,Active,100543.0,Ahmedabad
+187,,Ishita Kumar,35,Female,Operations,Operations Manager,Logistics:2;SAP:3;Power BI:4;Excel:2,2025-07-26,,Active,84720.0,Pune
+188,,Rajesh Malhotra,28,Male,Sales,Business Development,Market Research:5;Negotiation:3;CRM:2;Lead Generation:5,2026-01-04,2026-02-03,Resigned,38979.0,Delhi
+189,,Rohan Malhotra,24,Male,Finance,Accountant,Accounting:5;Tally:3;Excel:2;Auditing:4;Power BI:2,2025-02-18,,Active,46659.0,Ahmedabad
+190,,Pallavi Desai,31,Female,Finance,Accountant,Auditing:3;SAP:4;Power BI:4;Tally:5,2022-08-09,,Active,65123.0,Bangalore
+191,,Dev Rao,23,Male,Sales,Sales Head,CRM:3;Market Research:5;Communication:3;Lead Generation:3,2024-01-24,,Active,116751.0,Kolkata
+192,,Priyanshu Kumar,52,Male,Operations,Supply Chain Analyst,Logistics:3;ERP:2;Excel:4;Power BI:2,2021-10-11,,Active,51712.0,Noida
+193,,Meera Mehta,33,Female,IT,IT Manager,React:3;Kubernetes:5;Python:4,2022-10-03,,Active,115502.0,Delhi
+194,,Mohit Shah,33,Male,Finance,Payroll Specialist,GST:3;SAP:5;Accounting:4,2025-07-28,2025-09-16,Resigned,46243.0,Ahmedabad
+195,,Suresh Mishra,55,Male,Sales,Business Development,Negotiation:2;Market Research:2;Communication:3;Presentation:3;Lead Generation:2,2023-12-25,,Active,37376.0,Pune
+196,,Bhavna Malhotra,36,Female,Marketing,SEO Specialist,Analytics:5;Google Ads:4;Email Marketing:3;Canva:4,2023-12-16,,Active,42745.0,Gurgaon
+197,,Sahil Rao,36,Male,IT,IT Manager,TypeScript:2;Git:3;AWS:4,2023-04-18,2025-09-11,Resigned,106822.0,Gurgaon
+198,,Suresh Kumar,28,Male,Legal,Legal Counsel,Contract Law:3;Legal Research:3;Drafting:2;Corporate Law:4;Compliance:4,2023-11-30,,Active,56577.0,Bangalore
+199,,Pallavi Mehta,26,Female,Operations,Logistics Coordinator,Logistics:5;Supply Chain:3;SAP:3;Excel:5,2025-12-18,,Active,49663.0,Bangalore
+200,,Amit Singh,32,Male,Finance,Finance Manager,Tally:5;SQL:2;SAP:5,2025-03-13,2025-09-01,Resigned,108455.0,Gurgaon

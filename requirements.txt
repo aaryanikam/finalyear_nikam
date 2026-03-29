@@ -1,0 +1,40 @@
+# ----------------------------
+# Streamlit & UI
+# ----------------------------
+streamlit>=1.38.0
+
+# ----------------------------
+# Core Libraries
+# ----------------------------
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+plotly>=5.20.0
+
+# ----------------------------
+# AI Integration (Google Gemini - FREE)
+# Get API key free at: https://aistudio.google.com
+# No credit card. No payment. 15 req/min free forever.
+# ----------------------------
+requests>=2.31.0
+
+# ----------------------------
+# PDF & File Export
+# ----------------------------
+fpdf2>=2.7.0
+reportlab>=4.1.0
+
+# ----------------------------
+# Date / Time utilities
+# ----------------------------
+python-dateutil>=2.8.2
+
+# ----------------------------
+# Database (SQLite is built-in to Python)
+# ----------------------------
+sqlalchemy>=2.0.0
+
+# ----------------------------
+# Misc
+# ----------------------------
+typing-extensions>=4.5.0
